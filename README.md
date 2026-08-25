@@ -75,7 +75,7 @@ To access the Admin Dashboard, register a normal account, then manually set `isA
 
 ## 📸 Screenshots
 
-_Add screenshots of your Home page, Product page, Cart, and Admin dashboard here before submitting._
+### Home Page ![Home Page](screenshots/home_ecomerrace.jpeg) ### Product Details ![Product Details](screenshots/productdetail_e-commerce.jpeg) ### Order Tracking ![Order Tracking](screenshots/order_eCommerce.jpeg) ### Wishlist ![Wishlist](screenshots/Wishlist_ecommerce.jpeg) ### Admin Dashboard ![Admin Dashboard](screenshots/admin_ecommerce.jpeg)
 
 ## 🎥 Demo Video
 
