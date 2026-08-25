@@ -75,8 +75,11 @@ To access the Admin Dashboard, register a normal account, then manually set `isA
 
 ## 📸 Screenshots
 
-### Home Page ![Home Page](screenshots/home_ecomerrace.jpeg) ### Product Details ![Product Details](screenshots/productdetail_e-commerce.jpeg) ### Order Tracking ![Order Tracking](screenshots/order_eCommerce.jpeg) ### Wishlist ![Wishlist](screenshots/Wishlist_ecommerce.jpeg) ### Admin Dashboard ![Admin Dashboard](screenshots/admin_ecommerce.jpeg)
-
+### Home Page ![Home Page](screenshots/home_ecomerrace.jpeg)
+### Product Details ![Product Details](screenshots/productdetail_e-commerce.jpeg) 
+### Order Tracking ![Order Tracking](screenshots/order_eCommerce.jpeg) 
+### Wishlist ![Wishlist](screenshots/Wishlist_ecommerce.jpeg) 
+### Admin Dashboard ![Admin Dashboard](screenshots/admin_ecommerce.jpeg)
 ## 🎥 Demo Video
 
 _Add your LinkedIn video walkthrough link here._
